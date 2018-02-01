@@ -1,0 +1,16 @@
+[
+{
+  "modid": "buildwithbricks",
+  "name": "Build with Bricks",
+  "description": "Build with bricks! or throw them",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["Somebody3lse", "Thundra"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
